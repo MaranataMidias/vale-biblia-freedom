@@ -47,9 +47,9 @@ body{
     display: flex;
     
     align-items: center;
-    width: 10%;
+    width: 50%;
     margin: 2px auto;
-    gap: 10px;
+    
 }
 
 .link-bio h1{
